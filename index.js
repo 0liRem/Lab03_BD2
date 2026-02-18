@@ -11,7 +11,7 @@
 //      https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/
 //      https://www.mongodb.com/docs/manual/reference/operator/aggregation/unwind/
 //      https://www.mongodb.com/docs/manual/reference/operator/aggregation/lookup/
-//      
+//      ChatGPT for errors, help with querys and create the readme
 //
 
 require('dotenv').config();
